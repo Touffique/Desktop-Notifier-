@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desktop Notifier 
 
 A local Windows desktop reminder app built with Python, PySide6, and SQLite.
@@ -43,3 +44,7 @@ If `py` is not recognized but `python` works, replace `py` with `python` for the
 - Notifications use Qt's system-tray notification mechanism. Windows settings, Focus Assist/Do Not Disturb, and notification permissions may affect how they appear.
 - The app must be running for reminders to fire. It does not yet start automatically with Windows.
 - This MVP does not sync to the cloud or send notifications while the computer is off.
+=======
+# Desktop-Notifier-
+Mini Project 
+>>>>>>> f99653fd3252b4a68812c3b777aa2e59ce322274
